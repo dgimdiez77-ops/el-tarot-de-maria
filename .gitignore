@@ -1,0 +1,7 @@
+# Historical deployment archives and staging copies are not source code.
+releases/
+site-publish-v27/
+site-source-v19/
+
+# Generated audit renders.
+docs/auditoria_render/

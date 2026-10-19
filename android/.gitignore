@@ -1,0 +1,7 @@
+native/
+*.jks
+*.keystore
+*.aab
+*.apk
+local.properties
+assetlinks.generated.json
